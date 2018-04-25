@@ -1,4 +1,4 @@
-**OLA Trigger config to be used with LIRC to send infra-red commands using DMX (Art-Net, sACN or via DMX input)**
+**OLA trigger config to be used with LIRC to send infra-red commands using DMX (Art-Net, sACN or via DMX input)**
 
 **Requirements**
 
